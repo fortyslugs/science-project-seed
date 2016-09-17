@@ -9,11 +9,11 @@ On social media content and engagement matters. If you actively engage with othe
 
 For my project I set-up as series of experiments using Twitter. 
 
-### Experiment #1 - compare growth of followers for two accounts:
+### Experiment #1 - Compare follower growth with account profile design
 1. Account with plain profile
 2. Account with enhanced profile
 
-Hypothesis: Account with enhanced profile should receive significantly more followers over time
+Hypothesis: Compare follower growth with social engagement
 
 ### Experiment #2 - compare growth of followers for two accounts:
 1. Account with active tweeting activity and social engagement
