@@ -13,7 +13,10 @@ For my project I set-up as series of experiments using Twitter.
 1. Account with plain profile
 2. Account with enhanced profile
 
+Hypothesis: Account with enhanced profile should receive significantly more followers over time
+
 ### Experiment #2 - compare growth of followers for two accounts:
 1. Account with active tweeting activity and social engagement
 2. Account with low activities and no social engagement
 
+Hypothesis: Accounts with active users should receive significantly more followers over time
