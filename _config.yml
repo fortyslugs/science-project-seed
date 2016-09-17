@@ -20,10 +20,10 @@ url:                #http://localhost:4000
 # Where things are - include submodule in path
 source:       .
 destination:  ./_site
-plugins_dir:  ./<submodule>/_plugins
-layouts_dir:  ./<submodule>/_layouts
-data_dir:     ./<submodule>/_data
-includes_dir: ./<submodule>/_includes
+plugins_dir:  ./new_template/_plugins
+layouts_dir:  ./new_template/_layouts
+data_dir:     ./new_template/_data
+includes_dir: ./new_template/_includes
 
 # Front Matter defaults
 defaults:
