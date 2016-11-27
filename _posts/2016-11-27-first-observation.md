@@ -6,9 +6,9 @@ Keeping a complete and accurate record of experimental methods and data is a vit
 science and engineering. Your laboratory notebook is a permanent record of what you did and
 
 
-|	   |Col2   |Col3   |Col4   |Col5   |
+|	   |Tweets|Following|Followers|Likes|
 |---|---|---|---|---|
-|Row1   |12   |15 |20   |12   |
+|Plain|3,637|1078 |154   |6805   |
 |Row2   |15   |11 |34   |55   |
 |Row3   |16   |1  |12   |78   |
 
