@@ -16,7 +16,7 @@ For my project I set-up as series of experiments using Twitter.
 Hypothesis: The account with an enhanced social profile should receive significantly more followers over time.
 
 ### Experiment #2 - Compare follower growth with social engagement:
-1. Account with active tweeting activity and social engagement
-2. Account with low activities and no social engagement
+1. Account with active tweeting activity and active social engagement
+2. Account with low tweet activities and little social engagement
 
 Hypothesis: Accounts with active users should receive significantly more followers over time.
