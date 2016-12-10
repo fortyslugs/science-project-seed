@@ -1,3 +1,11 @@
+---
+title: Observation of Plain and Fancy Bots
+tags: data-observation
+---
+
+### Plain vs. Fancy
+
+
 Observation of Plain and Fancy bot
 
 09 Dec 2016    data-observation
