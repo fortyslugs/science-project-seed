@@ -14,7 +14,3 @@ So far it appears that people are more likely to follow twitter accounts. Howeve
 |Plain |3,637 |1,078 |154 |6,805 |
 |Fancy |3,739 |3,578 |630 |8,377 |
 
-
-
-
-### Quiet vs. Chatty
