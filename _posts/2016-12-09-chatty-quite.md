@@ -4,7 +4,7 @@ tags: data-observation
 ---
 
 ### Chatty vs. Quiet 
-
+The chatty bot has signifacantly more "tweets", "followers", and "likes" than the quiet bot. The chatty bot is also "following" significantly more people than the quiet bot. The background is not identical for both accounts. We decided that we should make the background images identical to eliminate variables. 
 
 
 |	   |Tweets |Following     |Followers    |Likes |
