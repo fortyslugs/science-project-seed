@@ -7,7 +7,7 @@ tags: data-observation
 23 JAN 2017
 
 The chatty bot continues to have signifacantly more "tweets", "followers", and "likes" than the quiet bot. 
-The chatty bot is also "following" significantly more people than the quiet bot. 
+The chatty bot is also "following" significantly more people than the quiet bot. We also observed that the Chatty bot and Fancy bot are "following" the same number of "Tweeters". 
 
 
 |	   |Tweets |Following     |Followers    |Likes |
