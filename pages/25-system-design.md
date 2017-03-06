@@ -11,7 +11,6 @@ title: System Design
 
 2. Operating requirements
     * Bots will run autonomously
-    * Bot will provide logging data
     * The bot will log the number of followers, tweets, and likes
 
 ### Configuration of the Bot
@@ -28,7 +27,9 @@ title: System Design
    * For each tweet that matched the keywords, the bots retweeted the tweet, liked the tweet, and followed the author of the tweet
 
 ### Configuration of the Twitter accounts
-1. Twitter profile
+1. Twitter profile configuration
+   * The profile is configured according to the experiment
+   * The configuration includes the account profile picture, the backgroud, the location
 
 
 
